@@ -1,0 +1,4 @@
+C:\Users\Usuario\Desktop\voyage fantastique\obj\Debug\net7.0\voyage fantastique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\voyage fantastique\obj\Debug\net7.0\voyage fantastique.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\voyage fantastique\obj\Debug\net7.0\voyage fantastique.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\voyage fantastique\obj\Debug\net7.0\voyage fantastique.csproj.CoreCompileInputs.cache
